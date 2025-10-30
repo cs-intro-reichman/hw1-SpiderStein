@@ -24,9 +24,9 @@
             "mainClass": "Bill3",
             "projectName": "hw1-SpiderStein_b91d0f95",
             "args": [
-                "Dan",
-                "Lisa",
                 "Ron",
+                "Lisa",
+                "Dan",
                 "34"
             ]
         },
