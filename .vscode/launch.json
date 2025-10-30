@@ -17,7 +17,7 @@
             "mainClass": "Ascend",
             "projectName": "hw1-SpiderStein_b91d0f95",
             "args": [
-                "100"
+                "11323"
             ]
         },
         {
@@ -67,7 +67,10 @@
             "name": "TimeFormat",
             "request": "launch",
             "mainClass": "TimeFormat",
-            "projectName": "hw1-SpiderStein_b91d0f95"
+            "projectName": "hw1-SpiderStein_b91d0f95",
+            "args": [
+                "23:50"
+            ]
         }
     ]
 }
