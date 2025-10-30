@@ -16,7 +16,11 @@ public class TimeFormat {
 			AMPMTime += "0";
 		}
 		AMPMTime += minutes;
-		AMPMTime += (hours >= 12) ? " PM" : " AM";
+		if (hours >= 12) {
+			AMPMTime += " PM";
+		} else {
+			AMPMTime += " AM";
+		}
 		System.out.println(AMPMTime);
 	}
 }
