@@ -47,7 +47,10 @@
             "name": "NumWords",
             "request": "launch",
             "mainClass": "NumWords",
-            "projectName": "hw1-SpiderStein_b91d0f95"
+            "projectName": "hw1-SpiderStein_b91d0f95",
+            "args": [
+                "517"
+            ]
         },
         {
             "type": "java",
